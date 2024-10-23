@@ -113,6 +113,7 @@ const BiteConsent = ({ privacyPolicyUrl, text, visibility = 'auto', position = '
         >
           <Cookies style={{ width: '3.5rem', height: '3.5rem', position: 'absolute', top: '-2rem', left: '1rem' }} />
           <p
+            part="paragraph"
             style={{
               fontSize: '0.875rem',
               textAlign: 'start',
